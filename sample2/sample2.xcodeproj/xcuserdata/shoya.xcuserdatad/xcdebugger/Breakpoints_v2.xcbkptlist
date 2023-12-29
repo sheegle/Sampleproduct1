@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF917736-7601-4667-B0F3-F69EA788DBEA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "1B4AD2B9-5406-4812-B5E0-F0CFE10A339E"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "where"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD26A42A-F9DC-408D-8BAA-DD9E537EFCEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sample2/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "saveToCoreData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD26A42A-F9DC-408D-8BAA-DD9E537EFCEA - 69bc2ece2e448e15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sample2.ToDoManager.saveToCoreData() -&gt; ()"
+                  moduleName = "sample2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoya/Desktop/sample/sample2/sample2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "447">
+               </Location>
+               <Location
+                  uuid = "DD26A42A-F9DC-408D-8BAA-DD9E537EFCEA - 69bc2ece2e448e15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sample2.ToDoManager.saveToCoreData() -&gt; ()"
+                  moduleName = "sample2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoya/Desktop/sample/sample2/sample2/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "475">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
